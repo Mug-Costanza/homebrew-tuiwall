@@ -1,4 +1,4 @@
-class tuiwall < Formula
+class Tuiwall < Formula
   desc "CLI wallpaper engine for the terminal"
   homepage "https://github.com/Mug-Costanza/tuiwall"
   version "0.1.0"
